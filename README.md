@@ -8,8 +8,8 @@ AWD LSTM used for language model and Text Classification.
 
 ## Approach
 1. Web Scraping, Tokenization and Numericalization (Preprocessing)
-2. Language Model (AWD_LSTM)
-3. Text Classifier
+2. Language Model (Wikitext103)
+3. Text Classifier (AWD-LSTM)
 4. Fine tuning of hyperparameters
 
 
